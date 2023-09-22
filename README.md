@@ -13,7 +13,7 @@ npm run prod
 
 ## Demo 
 
-https://drive.google.com/file/d/1eCAVvAhilsUEGrowuBOVEVO1CKvhn7ml/view?usp=share_link
+https://www.youtube.com/watch?v=nO0YythRHus
 
 ## License
 
